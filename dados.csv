@@ -1,0 +1,604 @@
+numero,nome,categoria,sexo
+1,André Luiz de Sá,Master I – 40 a 49 anos – 5 km,Masculino
+2,Marcia Pereira Monteiro,Master I – 40 a 49 anos – 5 km,Feminino
+3,Maykon keverson Monteiro de Carvalho ,Elite – 18 a 39 anos – 5 km,Masculino
+4,Rafaela Castro da conceicao,Elite – 18 a 39 anos – 5 km,Feminino
+5,Felipe Souza de Miranda ,Elite – 18 a 39 anos – 5 km,Masculino
+6,Isac Gomes Queres ,Elite – 18 a 39 anos – 5 km,Masculino
+7,Ana Paula Faria ,Elite – 18 a 39 anos – 5 km,Feminino
+8,Kalil silva dos santos ,Elite – 18 a 39 anos – 5 km,Masculino
+9,João Pedro Silva Santos ,Elite – 18 a 39 anos – 5 km,Masculino
+10,Pedro Henrique Souto da Silva ,Elite – 18 a 39 anos – 5 km,Masculino
+11,Amanda Ribeiro Carvalho ,Elite – 18 a 39 anos – 5 km,Feminino
+12,Daniel Santiago da Silva,Elite – 18 a 39 anos – 5 km,Masculino
+13,Thiago ,Elite – 18 a 39 anos – 5 km,Masculino
+14,Kacielle Alves de Souza Miranda ,Elite – 18 a 39 anos – 5 km,Feminino
+15,Edilson Galdino do Carmo ,Master I – 40 a 49 anos – 5 km,Masculino
+16,,,
+17,Cristiane de Souza Faria ,Master I – 40 a 49 anos – 5 km,Feminino
+18,Kamily Vitória da Silva Pardin ,Elite – 18 a 39 anos – 5 km,Feminino
+19,Mateus silva de souza,Elite – 18 a 39 anos – 5 km,Masculino
+20,,,
+21,,,
+22,Joyce de Souza Araújo Ribeiro ,Elite – 18 a 39 anos – 5 km,Feminino
+23,,,
+24,,,
+25,Sueli Nunes da Silva ,Elite – 18 a 39 anos – 5 km,Feminino
+26,Caroline Nebo,Master I – 40 a 49 anos – 5 km,Feminino
+27,Marivania dos Santos Pereira ,Elite – 18 a 39 anos – 5 km,Feminino
+28,Joubert Procópio de Oliveira Neto,Elite – 18 a 39 anos – 5 km,Masculino
+29,Sônia Maria de Sousa Silva ,Master I – 40 a 49 anos – 5 km,Feminino
+30,Claudiane de souza faria ,Elite – 18 a 39 anos – 5 km,Feminino
+31,Ana Paula Pereira Barros,Elite – 18 a 39 anos – 5 km,Feminino
+32,Suelene dias de melo ,Master I – 40 a 49 anos – 5 km,Feminino
+33,Talita Frazao da Silva ,Elite – 18 a 39 anos – 5 km,Feminino
+34,Osmilene de Cássia Camello Leite ,Master I – 40 a 49 anos – 5 km,Feminino
+35,Daniella de Sousa Costa maia,Elite – 18 a 39 anos – 5 km,Feminino
+36,,,
+37,Luiz Felipe Rodrigues Pereira,Elite – 18 a 39 anos – 5 km,Masculino
+38,Amanda Gomes de Oliveira,Elite – 18 a 39 anos – 5 km,Feminino
+39,Andressa Camargo Cabral ,Elite – 18 a 39 anos – 5 km,Feminino
+40,Francirleia Rodrigues da silva Oliveira ,Elite – 18 a 39 anos – 5 km,Feminino
+41,Lucimar Alves Lopes,Elite – 18 a 39 anos – 5 km,Feminino
+42,Mauricio da Silva Ribeiro ,Master I – 40 a 49 anos – 5 km,Masculino
+43,Ana Karolyna Teixeira ,Elite – 18 a 39 anos – 5 km,Feminino
+44,Joanice Lemes da Silva ,Elite – 18 a 39 anos – 5 km,Feminino
+45,,,
+46,Lauriele Machado de Sousa ,Elite – 18 a 39 anos – 5 km,Feminino
+47,Thais da Cunha Barbosa ,Elite – 18 a 39 anos – 5 km,Feminino
+48,Flaukia Rodrigues de Moraes das Neves ,Elite – 18 a 39 anos – 5 km,Feminino
+49,Milene da silva lima,Elite – 18 a 39 anos – 5 km,Feminino
+50,Erica Costa pereira,Elite – 18 a 39 anos – 5 km,Feminino
+51,Wesley Gonçalves soares,Elite – 18 a 39 anos – 5 km,Masculino
+52,Thaynara Lima de Souza ,Elite – 18 a 39 anos – 5 km,Feminino
+53,Vitor Hugo Ribeiro Do Rosário Murad ,Elite – 18 a 39 anos – 5 km,Masculino
+54,Luana de Souza Barbosa ,Elite – 18 a 39 anos – 5 km,Feminino
+55,Mayara Ribeiro dos Santos,Elite – 18 a 39 anos – 5 km,Feminino
+56,Juliete Barbosa Miranda ,Elite – 18 a 39 anos – 5 km,Feminino
+57,Fernanda Pereira de Oliveira ,Master I – 40 a 49 anos – 5 km,Feminino
+58,Everson Julio Leite,Master II – 50 anos acima – 5 km,Masculino
+59,Felipe Lima do Amaral,Elite – 18 a 39 anos – 5 km,Masculino
+60,Taiane Alves da cruz,Elite – 18 a 39 anos – 5 km,Feminino
+61,Thauane de Oliveira Lima ,Elite – 18 a 39 anos – 5 km,Feminino
+62,,,
+63,Maurício Pereira da Silva ,Elite – 18 a 39 anos – 5 km,Masculino
+64,,,
+65,Gisele de Sousa Coelho ,Elite – 18 a 39 anos – 5 km,Feminino
+66,luzia pereira batista,Master I – 40 a 49 anos – 5 km,Feminino
+67,Erika Dayanne Alves Da Silva ,Elite – 18 a 39 anos – 5 km,Feminino
+68,Luan Ricardo moreira ,Elite – 18 a 39 anos – 5 km,Masculino
+69,Tarlisson Ferreira dos santos ,Elite – 18 a 39 anos – 5 km,Masculino
+70,Lara Gabriela Silva,Elite – 18 a 39 anos – 5 km,Feminino
+71,Weslene de Jesus Araújo ,Elite – 18 a 39 anos – 5 km,Feminino
+72,Lowsleny Gomes Araújo de Jesus,Elite – 18 a 39 anos – 5 km,Feminino
+73,Donizete Antonio da Silva ,Elite – 18 a 39 anos – 5 km,Masculino
+74,Natália Amaral Viana ,Elite – 18 a 39 anos – 5 km,Feminino
+75,Aldeone Eugênio Sousa,Elite – 18 a 39 anos – 5 km,Masculino
+76,ELISNALDO DA SILVA cassimiro ,Elite – 18 a 39 anos – 5 km,Masculino
+77,Enia Paula Machado Pais,Elite – 18 a 39 anos – 5 km,Feminino
+78,Lorena Rodrigues da silva,Elite – 18 a 39 anos – 5 km,Feminino
+79,Bruno da Silva costa ,Elite – 18 a 39 anos – 5 km,Masculino
+80,CLÁUDIO JOSÉ DE MATOS JÚNIOR ,Elite – 18 a 39 anos – 5 km,Masculino
+81,Nágila Kamille Marques Caldas,Elite – 18 a 39 anos – 5 km,Feminino
+82,Valter de sousa costa maia,Elite – 18 a 39 anos – 5 km,Masculino
+83,Rodrigo Da Silva Oliveira ,Elite – 18 a 39 anos – 5 km,Masculino
+84,Alexandrina Lobato Silva ,Elite – 18 a 39 anos – 5 km,Feminino
+85,Rogério Machado dos santos,Elite – 18 a 39 anos – 5 km,Masculino
+86,Gabriel Gomes De Oliveira ,Elite – 18 a 39 anos – 5 km,Masculino
+87,Yara da cruz melo,Elite – 18 a 39 anos – 5 km,Feminino
+88,Tiago de assis dos santos,Elite – 18 a 39 anos – 5 km,Masculino
+89,Verônica da Silva Oliveira ,Elite – 18 a 39 anos – 5 km,Feminino
+90,Layson Silva de Souza,Elite – 18 a 39 anos – 5 km,Masculino
+91,taynara souza roch,Elite – 18 a 39 anos – 5 km,Feminino
+92,Jacklynne Ferreira Sousa ,Elite – 18 a 39 anos – 5 km,Feminino
+93,Glaucia Kelly Cardoso Costa ,Elite – 18 a 39 anos – 5 km,Feminino
+94,Roreeon araujo santiago ,Elite – 18 a 39 anos – 5 km,Masculino
+95,Rayssa Alves da silva nascimento ,Elite – 18 a 39 anos – 5 km,Feminino
+96,Thatielle Araújo ferro ,Elite – 18 a 39 anos – 5 km,Feminino
+97,Leticia da Silva Sousa ,Elite – 18 a 39 anos – 5 km,Feminino
+98,Robert Silva de Lima ,Elite – 18 a 39 anos – 5 km,Masculino
+99,Fabio Rodrigues de Souza ,Elite – 18 a 39 anos – 5 km,Masculino
+100,Wallison patrick alves coelho ,Elite – 18 a 39 anos – 5 km,Masculino
+101,Darlan Marques Miranda ,Master I – 40 a 49 anos – 5 km,Masculino
+102,Robson Vieira Da Silva ,Elite – 18 a 39 anos – 5 km,Masculino
+103,Mateus Nunes Costa,Elite – 18 a 39 anos – 5 km,Masculino
+104,Geilson Almeida,Elite – 18 a 39 anos – 5 km,Masculino
+105,Layanne kelly de Castro Brito ,Elite – 18 a 39 anos – 5 km,Feminino
+106,Fabiana da Silva Lima Souza ,Elite – 18 a 39 anos – 5 km,Feminino
+107,Ana Carolina Rodrigues Ferreira ,Elite – 18 a 39 anos – 5 km,Feminino
+108,Patricia Arraes Sousa de Sousa ,Elite – 18 a 39 anos – 5 km,Feminino
+109,Francisco Wagner Martins Fernandes ,Elite – 18 a 39 anos – 5 km,Masculino
+110,Lanna Lima de Souza Santos ,Elite – 18 a 39 anos – 5 km,Feminino
+111,Michael Brito de Souza ,Elite – 18 a 39 anos – 5 km,Masculino
+112,Larissa Mariana Costa,Elite – 18 a 39 anos – 5 km,Feminino
+113,Ianne Carvalho de Oliveira ,Elite – 18 a 39 anos – 5 km,Feminino
+114,Paulo Henrique Rodrigues Pereira ,Elite – 18 a 39 anos – 5 km,Masculino
+115,Paulo Henrique Silva,Elite – 18 a 39 anos – 5 km,Masculino
+116,Débora Gomes dos Santos ,Elite – 18 a 39 anos – 5 km,Feminino
+117,Antônio campos da Silva ,Elite – 18 a 39 anos – 5 km,Masculino
+118,Mateus da Silva Morais,Elite – 18 a 39 anos – 5 km,Masculino
+119,Helena Rocha Lemos ,Master II – 50 anos acima – 5 km,Feminino
+120,Karine Silva Cardoso ,Master I – 40 a 49 anos – 5 km,Feminino
+121,Paulo Henrique Abreu Barbosa ,Elite – 18 a 39 anos – 5 km,Masculino
+122,,,
+123,Valdirene da Silva Oliveira ,Master II – 50 anos acima – 5 km,Feminino
+124,Carlene da Cruz,Elite – 18 a 39 anos – 5 km,Feminino
+125,Layane dos Santos Lustosa ,Elite – 18 a 39 anos – 5 km,Feminino
+126,Thalita Castro Costa Anacleto,Elite – 18 a 39 anos – 5 km,Feminino
+127,,,
+128,Wesley Pereira da Silva ,Elite – 18 a 39 anos – 5 km,Masculino
+129,Camila Eduardo de Souza ,Elite – 18 a 39 anos – 5 km,Feminino
+130,Vanessa Marques ,Elite – 18 a 39 anos – 5 km,Feminino
+131,Douglas Batista Cardoso,Elite – 18 a 39 anos – 5 km,Masculino
+132,Leonardo Rocha Monteiro ,Elite – 18 a 39 anos – 5 km,Feminino
+133,Samara da Silva Santos ,Elite – 18 a 39 anos – 5 km,Feminino
+134,Luciana Rodrigues dos Santos Lustosa ,Master I – 40 a 49 anos – 5 km,Masculino
+135,JOAO MACHADO,Elite – 18 a 39 anos – 5 km,Masculino
+136,Rodrigo José Oliveira ,Elite – 18 a 39 anos – 5 km,Masculino
+137,Thalya Rodrigues dos santos ,Elite – 18 a 39 anos – 5 km,Feminino
+138,Marcos Antonio Dias dos Santos Lima,Elite – 18 a 39 anos – 5 km,Masculino
+139,Diego Chaves de Mendonça ,Elite – 18 a 39 anos – 5 km,Masculino
+140,Sulimar Gonçalves Pinheiro ,Master II – 50 anos acima – 5 km,Masculino
+141,thays oliveira freitas ,Elite – 18 a 39 anos – 5 km,Feminino
+142,Arthur Rocha dos Santos ,Elite – 18 a 39 anos – 5 km,Masculino
+143,Nayara Rocha Sampaio,Elite – 18 a 39 anos – 5 km,Feminino
+144,Tatiane Moreira Santos Andrade ,Elite – 18 a 39 anos – 5 km,Feminino
+145,Raphael Matos silva ,Elite – 18 a 39 anos – 5 km,Masculino
+146,Ionara Gomes Brito ,Master I – 40 a 49 anos – 5 km,Feminino
+147,David Abreu Costa ,Elite – 18 a 39 anos – 5 km,Masculino
+148,Arthur da Conceição Horta,Elite – 18 a 39 anos – 5 km,Masculino
+149,Antônia Clezia da Silva,Master I – 40 a 49 anos – 5 km,Feminino
+150,Jefferson marcos Oliveira costa,Elite – 18 a 39 anos – 5 km,Masculino
+151,Shirley do Amaral costa,Elite – 18 a 39 anos – 5 km,Feminino
+152,Bruno Rezende de Oliveira ,Elite – 18 a 39 anos – 5 km,Masculino
+153,Franciane Batista dos Santos Silva ,Master I – 40 a 49 anos – 5 km,Feminino
+154,Janaína Alves da Silva Soares ,Elite – 18 a 39 anos – 5 km,Feminino
+155,Thainara Oliveira de Sousa ,Elite – 18 a 39 anos – 5 km,Feminino
+156,Lucas Nogueira Resende,Elite – 18 a 39 anos – 5 km,Masculino
+157,Raimunda Ferreira Lima Oliveira ,Master I – 40 a 49 anos – 5 km,Feminino
+158,Vanessa Reis Soares,Elite – 18 a 39 anos – 5 km,Feminino
+159,Marcos Vinícius Lopes de Faria,Elite – 18 a 39 anos – 5 km,Masculino
+160,Natália Rodrigues,Elite – 18 a 39 anos – 5 km,Feminino
+161,Raymara Lima,Elite – 18 a 39 anos – 5 km,Feminino
+162,Hayanna Ribeiro ,Elite – 18 a 39 anos – 5 km,Feminino
+163,Eduarda do Socorro dos Santos neves,Elite – 18 a 39 anos – 5 km,Feminino
+164,Jhelyta Marilha C S Menezes,Elite – 18 a 39 anos – 5 km,Feminino
+165,ANDREIA BEZERRA SILVA ,Master I – 40 a 49 anos – 5 km,Feminino
+166,Amanda Lacerda,Elite – 18 a 39 anos – 5 km,Feminino
+167,Delta Rodrigues Pereira,Master I – 40 a 49 anos – 5 km,Feminino
+168,Sandra Maria de Jesus de Araújo ,Elite – 18 a 39 anos – 5 km,Feminino
+169,Nathalia Oliveira da silva,Elite – 18 a 39 anos – 5 km,Feminino
+170,Jaqueline de Cristo silva Ribeiro ,Master I – 40 a 49 anos – 5 km,Feminino
+171,Cleide Rodrigues da Silva ,Master I – 40 a 49 anos – 5 km,Feminino
+172,Kainan Santos de Sá ,Elite – 18 a 39 anos – 5 km,Masculino
+173,Noélia Alves de Sousa Peres,Elite – 18 a 39 anos – 5 km,Feminino
+174,Letícia Nunes Rodrigues ,Elite – 18 a 39 anos – 5 km,Feminino
+175,Suziene Machado lima,Elite – 18 a 39 anos – 5 km,Feminino
+176,Anderson Ribeiro Peres,Elite – 18 a 39 anos – 5 km,Masculino
+177,Jaci  Dorta da silva Aragão ,Master I – 40 a 49 anos – 5 km,Feminino
+178,Janaina de Souza Santana Silva ,Elite – 18 a 39 anos – 5 km,Feminino
+179,FRANCISCA LUZIVANIA DE OLIVEIRA,Master I – 40 a 49 anos – 5 km,Feminino
+180,Nubia Gabriela da Cruz ,Master I – 40 a 49 anos – 5 km,Feminino
+181,Asaf Brito de Matos ,Elite – 18 a 39 anos – 5 km,Masculino
+182,Genival Bandeira Tenório ,Elite – 18 a 39 anos – 5 km,Masculino
+183,Adriely Sombra,Elite – 18 a 39 anos – 5 km,Feminino
+184,Raiane Pereira da Silva,Elite – 18 a 39 anos – 5 km,Feminino
+185,Rudney Souza Alves ,Master I – 40 a 49 anos – 5 km,Masculino
+186,Ellem Patricia Campelo,Elite – 18 a 39 anos – 5 km,Feminino
+187,Kamily dos Santos Vieira ,Master I – 40 a 49 anos – 5 km,Feminino
+188,Ana Júlia Prudente Barbosa,Elite – 18 a 39 anos – 5 km,Feminino
+189,Yara Kallinny Silva Marques,Elite – 18 a 39 anos – 5 km,Feminino
+190,Polyana França,Elite – 18 a 39 anos – 5 km,Feminino
+191,Valdoanio Guimarães de Almeida ,Master I – 40 a 49 anos – 5 km,Masculino
+192,Anderson Brito dos Santos ,Elite – 18 a 39 anos – 5 km,Masculino
+193,Ingrid de Sousa Batista ,Elite – 18 a 39 anos – 5 km,Feminino
+194,Mayquel Pereira lopo ,Elite – 18 a 39 anos – 5 km,Feminino
+195,ana karollyne rocha sousa ,Elite – 18 a 39 anos – 5 km,Feminino
+196,João Vitor Sampaio ,Elite – 18 a 39 anos – 5 km,Masculino
+197,Luciano Sousa Silva ,Elite – 18 a 39 anos – 5 km,Masculino
+198,André Pereira Lima ,Elite – 18 a 39 anos – 5 km,Masculino
+199,Isabela Bichuette,Elite – 18 a 39 anos – 5 km,Feminino
+200,Cleuton Gomes de Oliveira ,Elite – 18 a 39 anos – 5 km,Masculino
+201,Blenda Luana Arruda Lopes Menezes,Elite – 18 a 39 anos – 5 km,Feminino
+202,maria victoria silva santos ,Master I – 40 a 49 anos – 5 km,Feminino
+203,Silio da Silva Moraes ,Elite – 18 a 39 anos – 5 km,Masculino
+204,Cristiane ,Master I – 40 a 49 anos – 5 km,Feminino
+205,Sabrina Aires da Silva ,Elite – 18 a 39 anos – 5 km,Feminino
+206,Andréia Lúcia Mendes Gonçalves ,Master I – 40 a 49 anos – 5 km,Feminino
+207,Weslaine Maria Pereira de Carvalho,Elite – 18 a 39 anos – 5 km,Feminino
+208,Micaele Dias Oliveira,Elite – 18 a 39 anos – 5 km,Feminino
+209,Rafaela da Cruz Rodrigues ,Elite – 18 a 39 anos – 5 km,Feminino
+210,Lanna karollyne Cenci Costa ,Elite – 18 a 39 anos – 5 km,Feminino
+211,Rhayssa de Sousa Fragata,Elite – 18 a 39 anos – 5 km,Feminino
+212,Jecirene Rodrigues Rocha ,Elite – 18 a 39 anos – 5 km,Feminino
+213,Stephany Kerly Morais Silva ,Elite – 18 a 39 anos – 5 km,Feminino
+214,Simone da Silva Rocha ,Elite – 18 a 39 anos – 5 km,Feminino
+215,Nathacha Cantanhede Soares ,Elite – 18 a 39 anos – 5 km,Feminino
+216,Flávia Lagares Faria,Elite – 18 a 39 anos – 5 km,Feminino
+217,,,
+218,Erika Kethellen de Araújo Ramos,Elite – 18 a 39 anos – 5 km,Feminino
+219,Erick Estivens Carvalho da Silva ,Elite – 18 a 39 anos – 5 km,Masculino
+220,Leila da Cunha Lima ,Master I – 40 a 49 anos – 5 km,Feminino
+221,André Luiz Gabino Guimarães ,Elite – 18 a 39 anos – 5 km,Masculino
+222,Aline cristina c Bernardo,Elite – 18 a 39 anos – 5 km,Feminino
+223,Edna Amanda Alencar Vieira ,Elite – 18 a 39 anos – 5 km,Feminino
+224,Savio dos Santos Nascimento ,Elite – 18 a 39 anos – 5 km,Masculino
+225,Wesley dos Santos Sousa ,Elite – 18 a 39 anos – 5 km,Masculino
+226,Jaquison Santos Andrade ,Master II – 50 anos acima – 5 km,Masculino
+227,Danielly Grassi de Oliveira ,Master I – 40 a 49 anos – 5 km,Feminino
+228,Jair Ribeiro de Sousa,Elite – 18 a 39 anos – 5 km,Masculino
+229,Hélio Antônio Damaceno Júnior ,Master I – 40 a 49 anos – 5 km,Masculino
+230,Josiane Mendes de Queiroz ,Elite – 18 a 39 anos – 5 km,Feminino
+231,Kaline da Silva ribeiro ,Elite – 18 a 39 anos – 5 km,Feminino
+232,,,
+233,Douglas de Oliveira livramento ,Master I – 40 a 49 anos – 5 km,Masculino
+234,Jocifran Silva de Jesus ,Elite – 18 a 39 anos – 5 km,Masculino
+235,Jhienny kesy da silva sousa ,Elite – 18 a 39 anos – 5 km,Feminino
+236,Iolanda Rodrigues de Oliveira ,Master I – 40 a 49 anos – 5 km,Feminino
+237,Francisco Wagner Araújo Barros ,Master II – 50 anos acima – 5 km,Masculino
+238,Maria Laura Silva Marsura ,Elite – 18 a 39 anos – 5 km,Feminino
+239,Ingrid Arruda Ribeiro Silva,Elite – 18 a 39 anos – 5 km,Feminino
+240,Rafaela Hendges Abdalla ,Master I – 40 a 49 anos – 5 km,Feminino
+241,Jacqueline de Oliveira Mota ,Elite – 18 a 39 anos – 5 km,Feminino
+242,Lucas Emanuel Reis da Silva ,Elite – 18 a 39 anos – 5 km,Masculino
+243,,,
+244,Danyela de Miranda Oliveira ,Elite – 18 a 39 anos – 5 km,Feminino
+245,Mateus Bringel,Elite – 18 a 39 anos – 5 km,Masculino
+246,Weslane Conceição do Nascimento ,Elite – 18 a 39 anos – 5 km,Feminino
+247,Ronald Silva Xavier ,Elite – 18 a 39 anos – 5 km,Masculino
+248,André Alberto Rodrigues Reis ,Elite – 18 a 39 anos – 5 km,Masculino
+249,Layne Dias Brandão ,Elite – 18 a 39 anos – 5 km,Feminino
+250,Kezia Cristina Oliveira da Conceição novato,Elite – 18 a 39 anos – 5 km,Feminino
+251,,,
+252,Ana Paula de Limas Cardoso ,Elite – 18 a 39 anos – 5 km,Feminino
+253,Diomar Evangelista de Sousa ,Elite – 18 a 39 anos – 5 km,Masculino
+254,Hugo ayalla menezes Silva ,Elite – 18 a 39 anos – 5 km,Masculino
+255,Aline Moreira da Silva ,Elite – 18 a 39 anos – 5 km,Feminino
+256,Ezia Batista de faria ,Elite – 18 a 39 anos – 5 km,Feminino
+257,,,
+258,João Gabriel de Lima Cruz,Elite – 18 a 39 anos – 5 km,Masculino
+259,Gildo Cruz Pereira ,Master I – 40 a 49 anos – 5 km,Masculino
+260,Jorge Luiz Lima de Brito ,Elite – 18 a 39 anos – 5 km,Masculino
+261,José Vitor Adriano ,Elite – 18 a 39 anos – 5 km,Masculino
+262,Geovanna Gomes da Silva Lora ,Elite – 18 a 39 anos – 5 km,Feminino
+263,Iara Lima Monteiro ,Elite – 18 a 39 anos – 5 km,Feminino
+264,Maria do Socorro Lima de Oliveira ,Master I – 40 a 49 anos – 5 km,Feminino
+265,Magazinil de Oliveira Gonçalves ,Elite – 18 a 39 anos – 5 km,Masculino
+266,Alexandra Fernandes de Assis,Master I – 40 a 49 anos – 5 km,Feminino
+267,Nurielle Pereira da Silva ,Elite – 18 a 39 anos – 5 km,Feminino
+268,Cristilene Miranda de oliveira,Elite – 18 a 39 anos – 5 km,Feminino
+269,Débora Messias Costa ,Elite – 18 a 39 anos – 5 km,Feminino
+270,Raphaela Negreiros,Elite – 18 a 39 anos – 5 km,Feminino
+271,Ivana dos Santos Monteiro ,Elite – 18 a 39 anos – 5 km,Feminino
+272,LUZIA LIMA DE OLIVEIRA,Elite – 18 a 39 anos – 5 km,Masculino
+273,Edilene da Silva Santos ,Elite – 18 a 39 anos – 5 km,Feminino
+274,Raissa Marques gomes,Elite – 18 a 39 anos – 5 km,Feminino
+275,Debora Cristine Moreira Rocha,Elite – 18 a 39 anos – 5 km,Feminino
+276,Elaine da Rocha Nicolau ,Master I – 40 a 49 anos – 5 km,Feminino
+277,Patrícia da Silva França ,Elite – 18 a 39 anos – 5 km,Feminino
+278,Millene Oliveira da Costa ,Elite – 18 a 39 anos – 5 km,Feminino
+279,Anderson Santos de Freitas,Master I – 40 a 49 anos – 5 km,Masculino
+280,Luis Kauan Silva de Carvalho ,Elite – 18 a 39 anos – 5 km,Masculino
+281,Lucas Ribeiro de Oliveira ,Elite – 18 a 39 anos – 5 km,Masculino
+282,Sara Oliveira Da Silva ,Elite – 18 a 39 anos – 5 km,Feminino
+283,Maria Eduarda De Sousa Silva ,Elite – 18 a 39 anos – 5 km,Feminino
+284,Jamison Silva Viana ,Elite – 18 a 39 anos – 5 km,Masculino
+285,Carliane Sousa Pires,Elite – 18 a 39 anos – 5 km,Feminino
+286,Martelly de Oliveira Goncalves,Elite – 18 a 39 anos – 5 km,Feminino
+287,João Paulo Freitas Costa ,Elite – 18 a 39 anos – 5 km,Masculino
+288,Késia Carolaíne de Sousa Silva ,Elite – 18 a 39 anos – 5 km,Feminino
+289,Larissa Matias Lopes ,Elite – 18 a 39 anos – 5 km,Feminino
+290,Keila Sousa Pereira ,Elite – 18 a 39 anos – 5 km,Feminino
+291,Luana Priscila Silva Santos ,Elite – 18 a 39 anos – 5 km,Feminino
+292,Alexssandra  de Sousa Martins,Elite – 18 a 39 anos – 5 km,Feminino
+293,Rosaly da Silva Lima ,Master I – 40 a 49 anos – 5 km,Feminino
+294,Patrícia costa da Silva ,Master I – 40 a 49 anos – 5 km,Feminino
+295,Evely Rodrigues Henrique ,Elite – 18 a 39 anos – 5 km,Feminino
+296,Lorena aguiar Martins ,Elite – 18 a 39 anos – 5 km,Feminino
+297,Rafael luz Pereira ,Elite – 18 a 39 anos – 5 km,Masculino
+298,Maria Cristina da Silva Pereira,Elite – 18 a 39 anos – 5 km,Feminino
+299,Juliano naves da silva,Elite – 18 a 39 anos – 5 km,Masculino
+300,Fabrício de Sá soares,Elite – 18 a 39 anos – 5 km,Masculino
+301,Juceli leonel anjo ,Master I – 40 a 49 anos – 5 km,Feminino
+302,Marcela de Carvalho Câmara ,Elite – 18 a 39 anos – 5 km,Feminino
+303,Jakeline Chaves de Mendonça ,Elite – 18 a 39 anos – 5 km,Feminino
+304,Claudia Santos lacerda ,Master I – 40 a 49 anos – 5 km,Feminino
+305,Thalia Barros nascimento ,Elite – 18 a 39 anos – 5 km,Feminino
+306,,,
+307,Laudilene Alves Sperandio ,Elite – 18 a 39 anos – 5 km,Feminino
+308,Kaique Alves dos Santos Araújo ,Elite – 18 a 39 anos – 5 km,Masculino
+309,Josefa da cruz alves,Master II – 50 anos acima – 5 km,Feminino
+310,Graciele Macedo dos Santos,Elite – 18 a 39 anos – 5 km,Feminino
+311,,,
+312,Marlene Bonifácio barbosa ,Master I – 40 a 49 anos – 5 km,Feminino
+313,Dainara Almeida Pinto ,Elite – 18 a 39 anos – 5 km,Feminino
+314,Regiane da Silva Gonçalves Lisboa ,Elite – 18 a 39 anos – 5 km,Feminino
+315,Danilo Sousa lima ,Elite – 18 a 39 anos – 5 km,Masculino
+316,Amanda Oliveira Santos ,Elite – 18 a 39 anos – 5 km,Feminino
+317,Ivone Ramos Feitosa ,Elite – 18 a 39 anos – 5 km,Feminino
+318,Maria Domingas dos Santos Barbosa ,Master I – 40 a 49 anos – 5 km,Feminino
+319,Ana Clara R Dias,Elite – 18 a 39 anos – 5 km,Feminino
+320,Maria Madalena Tavares da Silva ,Master I – 40 a 49 anos – 5 km,Feminino
+321,Joseline chaves de Mendonça ,Elite – 18 a 39 anos – 5 km,Feminino
+322,Juruna Rodrigues Araújo ,Master I – 40 a 49 anos – 5 km,Masculino
+323,Daniela Félix Vaz ,Elite – 18 a 39 anos – 5 km,Feminino
+324,Rosária Silva de Sousa Oliveira ,Elite – 18 a 39 anos – 5 km,Feminino
+325,Valdeisa Alves da silva ,Elite – 18 a 39 anos – 5 km,Feminino
+326,Agricyanna de Moura Castro Reges ,Master I – 40 a 49 anos – 5 km,Feminino
+327,,,
+328,Kelly Cristyna Alves da Silva ,Elite – 18 a 39 anos – 5 km,Feminino
+329,Kaua ferreira de oliveira ,Elite – 18 a 39 anos – 5 km,Masculino
+330,Jhones lacerda dos Santos ,Elite – 18 a 39 anos – 5 km,Masculino
+331,Rodrigo Ferreira martins,Master I – 40 a 49 anos – 5 km,Masculino
+332,Flávia Franco Sodré,Elite – 18 a 39 anos – 5 km,Feminino
+333,Lauanda teles Oliveira ,Elite – 18 a 39 anos – 5 km,Feminino
+334,Juliana Cibele de Almeida,Master II – 50 anos acima – 5 km,Feminino
+335,Elaine silva costa ,Elite – 18 a 39 anos – 5 km,Feminino
+336,LUANY CLARINDO CUNHA,Elite – 18 a 39 anos – 5 km,Feminino
+337,cleudivane da silva santos ,Elite – 18 a 39 anos – 5 km,Feminino
+338,Thalita Oliveira ,Elite – 18 a 39 anos – 5 km,Feminino
+339,Silviane de Jesus specot Luz ,Master I – 40 a 49 anos – 5 km,Feminino
+340,Iara Duarte da Silva ,Elite – 18 a 39 anos – 5 km,Feminino
+341,Diana da Silva Barbosa ,Elite – 18 a 39 anos – 5 km,Feminino
+342,jaquelyne da silva santos,Elite – 18 a 39 anos – 5 km,Feminino
+343,Irisvania brasil Sousa,Elite – 18 a 39 anos – 5 km,Feminino
+344,Rutiellen Siqueira Costa,Elite – 18 a 39 anos – 5 km,Feminino
+345,Leonardo Borba,Elite – 18 a 39 anos – 5 km,Masculino
+346,Rubia Carvalho Menezes souza,Elite – 18 a 39 anos – 5 km,Feminino
+347,João Victor costa Gonçalves ,Elite – 18 a 39 anos – 5 km,Masculino
+348,Cristiano Procópio,Master I – 40 a 49 anos – 5 km,Masculino
+349,Mikael Teixeira Melo ,Elite – 18 a 39 anos – 5 km,Masculino
+350,,,
+351,Romário Lucas da Silva,Elite – 18 a 39 anos – 5 km,Masculino
+352,,,
+353,Erick Pablo de Lima Medeiros ,Elite – 18 a 39 anos – 5 km,Masculino
+354,Ana Alice Rodrigues Miranda,Elite – 18 a 39 anos – 5 km,Feminino
+355,Samuel Morais De Sousa,Elite – 18 a 39 anos – 5 km,Masculino
+356,Ana Cleia Sena Nogueira ,Elite – 18 a 39 anos – 5 km,Feminino
+357,,,
+358,Cláudio César Silva da Cunha ,Elite – 18 a 39 anos – 5 km,Masculino
+359,Jocilene Moreira Borges ,Elite – 18 a 39 anos – 5 km,Feminino
+360,Tatiele Araújo Cardoso,Elite – 18 a 39 anos – 5 km,Feminino
+361,Alisson Fernandes Soares ,Elite – 18 a 39 anos – 5 km,Masculino
+362,Thálita da Costa Paes,Elite – 18 a 39 anos – 5 km,Feminino
+363,Stiven da Silva Galvão,Elite – 18 a 39 anos – 5 km,Masculino
+364,Thiago Alves Torres ,Elite – 18 a 39 anos – 5 km,Masculino
+365,Manoel José Lima da Conceição ,Master I – 40 a 49 anos – 5 km,Masculino
+366,Tatiane Araújo Cardoso ,Elite – 18 a 39 anos – 5 km,Feminino
+367,Marivania Pereira dos Santos ,Master I – 40 a 49 anos – 5 km,Feminino
+368,,,
+369,Maria Eduarda Grassi Valadão ,Elite – 18 a 39 anos – 5 km,Feminino
+370,Guilherme Farias Saldanha ,Elite – 18 a 39 anos – 5 km,Masculino
+371,Allankardson Brito,Elite – 18 a 39 anos – 5 km,Masculino
+372,Elisangela Rodrigues da Silva,Master I – 40 a 49 anos – 5 km,Feminino
+373,Sandra rodrigues da silva ,Elite – 18 a 39 anos – 5 km,Feminino
+374,Wesley Macedo Andrade ,Elite – 18 a 39 anos – 5 km,Masculino
+375,Willian Costa ,Elite – 18 a 39 anos – 5 km,Masculino
+376,Tatiane da Silva Santos ,Elite – 18 a 39 anos – 5 km,Feminino
+377,,,
+378,Rodrigo da Silva Ferreira ,Elite – 18 a 39 anos – 5 km,Masculino
+379,Raniele Oliveira de Souza ,Elite – 18 a 39 anos – 5 km,Feminino
+380,Maria do Socorro Gomes da Costa,Master II – 50 anos acima – 5 km,Feminino
+381,Ana Beatriz Cunha Ferreira ,Elite – 18 a 39 anos – 5 km,Feminino
+382,Betania Batista da Silva Antunes ,Master I – 40 a 49 anos – 5 km,Feminino
+383,Daniele Andrade Almeida ,Elite – 18 a 39 anos – 5 km,Feminino
+384,,,
+385,Kelly Cristina Silva Santos,Elite – 18 a 39 anos – 5 km,Feminino
+386,Helluar Aparecida Rocha Souza ,Elite – 18 a 39 anos – 5 km,Feminino
+387,Wanderson da Silva Souza ,Elite – 18 a 39 anos – 5 km,Masculino
+388,Maria luiza dos Santos Sousa ,Elite – 18 a 39 anos – 5 km,Feminino
+389,Giselia dias lima ,Elite – 18 a 39 anos – 5 km,Feminino
+390,Sabrina Alves Coelho ,Elite – 18 a 39 anos – 5 km,Feminino
+391,Paulo Henrique dos Santos ferreira ,Elite – 18 a 39 anos – 5 km,Masculino
+392,Tauã Ribeiro de Oliveira ,Elite – 18 a 39 anos – 5 km,Masculino
+393,Elisângela Costarino da Silva ,Elite – 18 a 39 anos – 5 km,Feminino
+394,Matheus Garcia Barros ,Elite – 18 a 39 anos – 5 km,Masculino
+395,Werik feber de Oliveira Souza ,Elite – 18 a 39 anos – 5 km,Masculino
+396,Ana Sousa Pereira ,Master I – 40 a 49 anos – 5 km,Feminino
+397,João Paulo da Silva Pires ,Elite – 18 a 39 anos – 5 km,Masculino
+398,Arleide Costa da Silva ,Elite – 18 a 39 anos – 5 km,Feminino
+399,Marcivânia Araújo da silva ,Elite – 18 a 39 anos – 5 km,Feminino
+400,Letícia Costa da Silva ,Elite – 18 a 39 anos – 5 km,Feminino
+401,Larissa tawanny chagas de Araújo ,Elite – 18 a 39 anos – 5 km,Feminino
+402,Carlos Eduardo Ferreira Araújo,Elite – 18 a 39 anos – 5 km,Masculino
+403,Moacir Mulato Alves Filho ,Elite – 18 a 39 anos – 5 km,Masculino
+404,Isabel Cristina Soares Borges ,Elite – 18 a 39 anos – 5 km,Feminino
+405,,,
+406,Maysa fernandes reis,Elite – 18 a 39 anos – 5 km,Feminino
+407,Luceni nascimento lima,Master I – 40 a 49 anos – 5 km,Feminino
+408,Dione Silva Souza ,Elite – 18 a 39 anos – 5 km,Masculino
+409,Ailson Farias Santana ,Master I – 40 a 49 anos – 5 km,Masculino
+410,,,
+411,Adriana Vieira da Silva Santana ,Elite – 18 a 39 anos – 5 km,Feminino
+412,,,
+413,,,
+414,Nayobkele Alves de Oliveira ,Elite – 18 a 39 anos – 5 km,Feminino
+415,augusto Jose dos santos neto,Elite – 18 a 39 anos – 5 km,Masculino
+416,Cinthia melo,Elite – 18 a 39 anos – 5 km,Feminino
+417,Amanda Vitória A Alves ,Elite – 18 a 39 anos – 5 km,Feminino
+418,Luzia Rocha,Elite – 18 a 39 anos – 5 km,Feminino
+419,Lourdes Barros de Almeida ,Master II – 50 anos acima – 5 km,Feminino
+420,Raquel Araújo da Silva ,Elite – 18 a 39 anos – 5 km,Feminino
+421,Manoel Pereira da Costa Neto ,Master II – 50 anos acima – 5 km,Masculino
+422,Anaylle Santos Silva ,Elite – 18 a 39 anos – 5 km,Feminino
+423,Paulo César da Silva Cardoso ,Elite – 18 a 39 anos – 5 km,Masculino
+424,EDUARDO MOEREIRA DE SOUSA,Elite – 18 a 39 anos – 5 km,Masculino
+425,Rafhaela morais da Rocha ,Elite – 18 a 39 anos – 5 km,Feminino
+426,Jariciane Cruz Setubal,Master I – 40 a 49 anos – 5 km,Feminino
+427,Jéssica de Lima Alves,Elite – 18 a 39 anos – 5 km,Feminino
+428,Lais Kalinny das Chagas Lima Galvão ,Elite – 18 a 39 anos – 5 km,Feminino
+429,Alisson Pablo Adriano Rodrigues ,Elite – 18 a 39 anos – 5 km,Masculino
+430,Marcos Rodrigues Vieira ,Elite – 18 a 39 anos – 5 km,Masculino
+431,Henrique Souza de Amorim ,Elite – 18 a 39 anos – 5 km,Masculino
+432,Jaqueline Rodrigues Vieira ,Elite – 18 a 39 anos – 5 km,Feminino
+433,Júlia Sousa Bezerra,Elite – 18 a 39 anos – 5 km,Feminino
+434,Sabrina Souza santos ,Elite – 18 a 39 anos – 5 km,Feminino
+435,Victória Marinho Araújo ,Elite – 18 a 39 anos – 5 km,Feminino
+436,Alex Cristian Oeiras barata ,Master I – 40 a 49 anos – 5 km,Masculino
+437,Adrielly Maria Coelho rego ,Elite – 18 a 39 anos – 5 km,Feminino
+438,Gabriela Marinho,Elite – 18 a 39 anos – 5 km,Feminino
+439,Antônio Kennedy de Sousa Lima ,Master I – 40 a 49 anos – 5 km,Masculino
+440,Ricardo Vinicius Brito de Carvalho Bucar ,Elite – 18 a 39 anos – 5 km,Masculino
+441,Cleydiane de Sousa alves ,Elite – 18 a 39 anos – 5 km,Feminino
+442,Maykon Wemerson Ferreira do Nascimento ,Elite – 18 a 39 anos – 5 km,Masculino
+443,Lauanda Cristina Monteiro Muraro ,Elite – 18 a 39 anos – 5 km,Feminino
+444,Juliana Valentin Portela,Elite – 18 a 39 anos – 5 km,Feminino
+445,Mario jose costa carneiro,Elite – 18 a 39 anos – 5 km,Masculino
+446,Angra da Silva Oliveira ,Elite – 18 a 39 anos – 5 km,Feminino
+447,Bruno Vieira,Elite – 18 a 39 anos – 5 km,Masculino
+448,Pedro Henrique Alves Carvalho ,Elite – 18 a 39 anos – 5 km,Masculino
+449,Saiara Souza da Silva ,Elite – 18 a 39 anos – 5 km,Feminino
+450,Diciana leite Batista,Master I – 40 a 49 anos – 5 km,Feminino
+451,Marina Alves da silva lima,Master I – 40 a 49 anos – 5 km,Feminino
+452,Rita de Cassia Ferreira Duarte ,Master I – 40 a 49 anos – 5 km,Feminino
+453,Hevelem vitória nery Fernandes ,Elite – 18 a 39 anos – 5 km,Feminino
+454,Manoel Feliphe dos Santos Silva,Elite – 18 a 39 anos – 5 km,Masculino
+455,Manoel moura das chagas filho,Master I – 40 a 49 anos – 5 km,Masculino
+456,Graziely Trigueiro de Souza ,Elite – 18 a 39 anos – 5 km,Feminino
+457,Kalyne Silva de Rezende Nascimento ,Elite – 18 a 39 anos – 5 km,Feminino
+458,DAIANNY SANTOS PEREIRA,Elite – 18 a 39 anos – 5 km,Feminino
+459,Maria Eduarda Ferreira Rodrigues ,Elite – 18 a 39 anos – 5 km,Feminino
+460,,,
+461,Cleoma de Oliveira Mendanha Silva,Master I – 40 a 49 anos – 5 km,Feminino
+462,Pedro Henrique Alves Carvalho ,Elite – 18 a 39 anos – 5 km,Masculino
+463,Higor de Sousa Batista,Elite – 18 a 39 anos – 5 km,Masculino
+464,,,
+465,,,
+466,Stefany Adelino de Jesus ,Elite – 18 a 39 anos – 5 km,Feminino
+467,Isabel Aposto dos Santos ,Elite – 18 a 39 anos – 5 km,Feminino
+468,,,
+469,,,
+470,,,
+471,,,
+472,,,
+473,,,
+474,,,
+475,,,
+476,,,
+477,,,
+478,,,
+479,,,
+480,,,
+481,,,
+482,,,
+483,,,
+484,,,
+485,,,
+486,,,
+487,,,
+488,,,
+489,,,
+490,,,
+491,,,
+492,,,
+493,,,
+494,,,
+495,,,
+496,,,
+497,,,
+498,,,
+499,,,
+500,,,
+501,,,
+502,,,
+503,,,
+504,,,
+505,,,
+506,,,
+507,,,
+508,,,
+509,,,
+510,,,
+511,,,
+512,,,
+513,,,
+514,,,
+515,,,
+516,,,
+517,,,
+518,,,
+519,,,
+520,,,
+521,,,
+522,,,
+523,,,
+524,,,
+525,,,
+526,,,
+527,,,
+528,,,
+529,,,
+530,,,
+531,,,
+532,,,
+533,,,
+534,,,
+535,,,
+536,,,
+537,,,
+538,,,
+539,,,
+540,,,
+541,,,
+542,,,
+543,,,
+544,,,
+545,,,
+546,,,
+547,,,
+548,,,
+549,,,
+550,,,
+551,,,
+552,,,
+553,,,
+554,,,
+555,,,
+556,,,
+557,,,
+558,,,
+559,,,
+560,,,
+561,,,
+562,,,
+563,,,
+564,,,
+565,,,
+566,,,
+567,,,
+568,,,
+569,,,
+570,,,
+571,,,
+572,,,
+573,,,
+574,,,
+575,,,
+576,,,
+577,,,
+578,,,
+579,,,
+580,,,
+581,,,
+582,,,
+583,,,
+584,,,
+585,,,
+586,,,
+587,,,
+588,,,
+589,,,
+590,,,
+591,,,
+592,,,
+593,,,
+594,,,
+595,,,
+596,,,
+597,,,
+598,,,
+599,,,
+600,,,
+601,,,
+602,,,
+603,,,
