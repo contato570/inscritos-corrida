@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Corre Xinguara 2026</title>
+
+<style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg,#020617,#0f172a);
+    color: white;
+}
+
+/* HEADER */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    background: rgba(0,0,0,0.4);
+}
+
+header img {
+    height: 70px;
+}
+
+nav a {
+    color: #ccc;
+    margin-left: 30px;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+nav a:hover {
+    color: #facc15;
+}
+
+/* HERO */
+.hero {
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.hero h1 {
+    font-size: 42px;
+}
+
+.hero span {
+    color: #facc15;
+}
+
+/* SEARCH */
+.search-box {
+    margin-top: 30px;
+}
+
+.search-box input {
+    width: 350px;
+    padding: 14px;
+    border-radius: 10px 0 0 10px;
+    border: none;
+    outline: none;
+}
+
+.search-box button {
+    padding: 14px 20px;
+    border: none;
+    background: #2563eb;
+    color: white;
+    border-radius: 0 10px 10px 0;
+    cursor: pointer;
+}
+
+/* CARDS */
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 40px;
+    flex-wrap: wrap;
+}
+
+.card {
+    background: #020617;
+    padding: 20px;
+    border-radius: 12px;
+    min-width: 220px;
+    border: 1px solid #1e293b;
+}
+
+/* TABLE */
+.container {
+    width: 90%;
+    margin: auto;
+    background: #020617;
+    border-radius: 12px;
+    padding: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background: #1e3a8a;
+}
+
+tr {
+    border-bottom: 1px solid #1e293b;
+}
+
+tr:hover {
+    background: #1e293b;
+}
+
+.badge-m {
+    background: #2563eb;
+    padding: 5px 10px;
+    border-radius: 6px;
+}
+
+.badge-f {
+    background: #e11d48;
+    padding: 5px 10px;
+    border-radius: 6px;
+}
+
+/* SIDE INFO */
+.side {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.side h3 {
+    color: #facc15;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+    <img src="logo.png">
+    <nav>
+        <a href="#">Início</a>
+        <a href="#">Inscritos</a>
+        <a href="#">Informações</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <h1>Consulta de <span>Inscritos</span></h1>
+    <p>Corre Xinguara 2026</p>
+
+    <div class="search-box">
+        <input type="text" id="busca" placeholder="Digite o nome...">
+        <button onclick="buscar()">Buscar</button>
+    </div>
+</section>
+
+<div class="cards">
+    <div class="card">
+        <h3>Total de inscritos</h3>
+        <p id="total">0</p>
+    </div>
+
+    <div class="card">
+        <h3>Evento</h3>
+        <p>17/05/2026</p>
+    </div>
+
+    <div class="card">
+        <h3>Local</h3>
+        <p>Xinguara - PA</p>
+    </div>
+</div>
+
+<div class="container">
+    <table>
+        <thead>
+            <tr>
+                <th>Nº</th>
+                <th>Nome</th>
+                <th>Categoria</th>
+                <th>Sexo</th>
+            </tr>
+        </thead>
+        <tbody id="tabela"></tbody>
+    </table>
+</div>
+
+<div class="side">
+    <h3>Lista oficial de inscritos</h3>
+    <p>Atualizado automaticamente</p>
+</div>
+
+<script>
+let dados = [];
+
+fetch('dados.csv')
+.then(res => res.text())
+.then(texto => {
+    const linhas = texto.split('\n').slice(1);
+    dados = linhas.map(l => l.split(','));
+    mostrar(dados);
+    document.getElementById("total").innerText = dados.length;
+});
+
+function mostrar(lista){
+    const tabela = document.getElementById("tabela");
+    tabela.innerHTML = "";
+
+    lista.forEach(item => {
+        if(item.length > 1){
+            let sexo = item[3] === "Masculino"
+                ? '<span class="badge-m">Masculino</span>'
+                : '<span class="badge-f">Feminino</span>';
+
+            tabela.innerHTML += `
+            <tr>
+                <td>${item[0]}</td>
+                <td>${item[1]}</td>
+                <td>${item[2]}</td>
+                <td>${sexo}</td>
+            </tr>`;
+        }
+    });
+}
+
+function buscar(){
+    const termo = document.getElementById("busca").value.toLowerCase();
+
+    const filtrado = dados.filter(item =>
+        item[1].toLowerCase().includes(termo)
+    );
+
+    mostrar(filtrado);
+}
+</script>
+
+</body>
+</html>
